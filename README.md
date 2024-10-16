@@ -26,3 +26,4 @@ Ensuring that international women students engaged in research have access to HP
 - Closure and networking event
 
 ANY international student in Montreal is welcomed to reach out to me either if they are interested in being mentees or mentors. 
+This project is funded by the Digital Research Alliance of Canada. For further questions, please contact Laura Carolina Camelo Valera (she/her, MSc) at laura.camelovalera@mail.mcgill.ca.
