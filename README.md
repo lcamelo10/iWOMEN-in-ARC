@@ -14,6 +14,18 @@ To create an inclusive academic environment where international women in genomic
 ## Mission
 To improve access to research resources for international women students in genomics by providing education, training, and support in Advanced Research Computing (ARC) and Research Data Management (RDM).
 
+## Contributors
+### Project Leaders 
+- Laura Carolina Camelo Valera
+- Meghana Munipalle
+
+Both of us are part of Alliance Canada program [Champions of the Equity, Diversity and Inclusion](https://alliancecan.ca/fr/initiatives/investissements-irn)
+
+### Mentors 
+- Georgette Femerling Romero
+- Sana Naderi
+- Xianglin Zhao
+
 ## Roadmap and Milestones
 ### Goals
 - **Increasing Outreach and Awareness:** Develop outreach programs to inform international women students about the availability and benefits of using HPC in their research project.
@@ -28,5 +40,6 @@ To improve access to research resources for international women students in geno
 - Workshops and Events: Organize monthly workshops on ARC and RDM and hold two small social events.
 - Networking Event: Host a closure and networking event to wrap up the program and foster future collaborations.
 
-ANY international student in Montreal is welcomed to reach out to me either if they are interested in being mentees or mentors. 
+
+ANY international student in Montreal is welcomed to reach out either if they are interested in being mentees or mentors. 
 This project is funded by the Digital Research Alliance of Canada. For further questions, please contact Laura Carolina Camelo Valera (she/her, MSc) at laura.camelovalera@mail.mcgill.ca.
