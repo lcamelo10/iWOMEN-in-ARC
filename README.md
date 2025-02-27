@@ -1,25 +1,25 @@
 # iWOMEN in ARC: International Women in Advanced Research Computing
 
-Improving accessibility and awareness to Advanced Research Computing (ARC) and Research Data Management (RDM) for International Women Students Engaged in Genomics Research in Montréal.
+Improving accessibility and awareness to Advanced Research Computing (ARC) and Research Data Management (RDM) for International Women Students Engaged Research in Montréal.
 
-# Empowering International Women in Genomics: Addressing Barriers to Research Resources and Inclusion in Academia 
+# Empowering International Women in Academia: Addressing Barriers to Research Resources and Inclusion 
 
-The complexity of academic and administrative systems can be challenging for international students. This includes accessing research tools provided independently from their institutions. Additionally, they often encounter barriers such as language difficulties, cultural differences, and gender bias, which can limit their access to mentorship and resources. By providing awareness and access to Digital Research Infrastructure (DRI) from Alliance Canada, this project seeks to create safe learning spaces, enhance resource accessibility, and support the academic and career development of this equity-seeking group, fostering diverse perspectives and innovations in the genomics field.
-
-Ensuring that international women students engaged in research have access to HPC is essential for fostering diverse perspectives and innovations in the genomics research community.
+The complexity of academic and administrative systems can be challenging for international students. This includes accessing research tools provided independently from their institutions. Additionally, they often encounter barriers such as language difficulties, cultural differences, and gender bias, which can limit their access to mentorship and resources. By providing awareness and access to Digital Research Infrastructure (DRI) from Alliance Canada, this project seeks to create safe learning spaces, enhance resource accessibility, and support the academic and career development of this equity-seeking group, fostering diverse perspectives and innovations in their research fields. Ensuring that international women students engaged in research have access to HPC is essential for fostering diverse perspectives.
 
 ## Vision 
-To create an inclusive academic environment where international women in genomics have equitable access to Advanced Research Computing (ARC) and Research Data Management (RDM) resources, empowering them to thrive in their research and careers.
+To create an inclusive academic environment where international women in academia have equitable access to Advanced Research Computing (ARC) and Research Data Management (RDM) resources, empowering them to thrive in their research and careers.
 
 ## Mission
-To improve access to research resources for international women students in genomics by providing education, training, and support in Advanced Research Computing (ARC) and Research Data Management (RDM).
+To improve access to research resources for international women students in academia by providing education, training, and support in Advanced Research Computing (ARC) and Research Data Management (RDM).
 
 ## Contributors
-### Project Leaders 
-- Laura Carolina Camelo Valera
-- Meghana Munipalle
+### Project Leader
+- Laura Carolina Camelo Valera**
+  
+### Collaborators from McGill Initiative in Computational Medicine (MiCM) 
+- Meghana Munipalle**
 
-Both of us are part of Alliance Canada program [Champions of the Equity, Diversity and Inclusion](https://alliancecan.ca/fr/initiatives/investissements-irn)
+**These participants are part of Alliance Canada program [Champions of the Equity, Diversity and Inclusion](https://alliancecan.ca/fr/initiatives/investissements-irn)
 
 ### Mentors 
 - Georgette Femerling Romero
@@ -41,5 +41,5 @@ Both of us are part of Alliance Canada program [Champions of the Equity, Diversi
 - Networking Event: Host a closure and networking event to wrap up the program and foster future collaborations.
 
 
-ANY international student in Montreal is welcomed to reach out either if they are interested in being mentees or mentors. 
+ANY international student in Canada is welcomed to reach out either if they are interested in being mentees or mentors. 
 This project is funded by the Digital Research Alliance of Canada. For further questions, please contact Laura Carolina Camelo Valera (she/her, MSc) at laura.camelovalera@mail.mcgill.ca.
