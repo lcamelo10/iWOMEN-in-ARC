@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="460" src="logo_iWiAcolor.png">
+</p>
+
 # iWOMEN in ARC: International Women in Advanced Research Computing
 
 Improving accessibility and awareness to Advanced Research Computing (ARC) and Research Data Management (RDM) for International Women Students Engaged Research in Montréal.
