@@ -30,6 +30,9 @@ To improve access to research resources for international women students in acad
 - Sana Naderi
 - Xianglin Zhao
 
+### Logo design
+- Monica Pham
+
 ## Roadmap and Milestones
 ### Goals
 - **Increasing Outreach and Awareness:** Develop outreach programs to inform international women students about the availability and benefits of using HPC in their research project.
