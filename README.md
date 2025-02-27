@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="460" src="logo_iWiAcolor.png">
+  <img width="300" height="300" src="logo_iWiAcolor.png">
 </p>
 
 # iWOMEN in ARC: International Women in Advanced Research Computing
