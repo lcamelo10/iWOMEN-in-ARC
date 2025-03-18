@@ -11,6 +11,11 @@
 **Note:** This document is **view-only**. If you wish to modify it, please create your own copy.
 
  
+## HPC101: Jumpstart Your Journey with Alliance Canada
 
+You can access the workshop outline for using the link below: 👉 [Click here to create a copy of the document](https://docs.google.com/document/d/104wBv8mRf9PDFyfmN0b6oKjpPpwMd3qU8nRjjUkC2I8/copy?usp=sharing)
 
+**License**: This workshop is licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en), which means you are free to share and adapt the materials with proper attribution.
+
+**Note:** This document is **view-only**. If you wish to modify it, please create your own copy.
 
